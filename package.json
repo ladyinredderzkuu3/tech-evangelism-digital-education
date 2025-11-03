@@ -1,7 +1,7 @@
 {
   "name": "tech-evangelism-digital-education",
   "version": "1.0.0",
-  "description": "Ein interaktives Lernportal für digitale Bildung und Programmierung.",
+  "description": "An interactive learning portal for digital education and programming.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
