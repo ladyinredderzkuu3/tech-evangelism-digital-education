@@ -14,6 +14,7 @@ header {
 
 main {
     padding: 20px;
+    padding-bottom: 50px; /* Added padding to prevent footer overlap */
 }
 
 footer {
