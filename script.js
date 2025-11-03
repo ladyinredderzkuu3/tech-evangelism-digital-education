@@ -1,0 +1,1 @@
+console.log('Willkommen im Tech Evangelism Projekt!');
